@@ -1,0 +1,10 @@
+import 'package:shop/pages/product_detail_page.dart';
+
+class AppRoutes {
+  static const authOrHome = '/';
+  static const productDetail = '/product-detail';
+  static const cart = '/cart';
+  static const orders = '/orders';
+  static const products = '/products';
+  static const productsForm = '/products-form';
+}
